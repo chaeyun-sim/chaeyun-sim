@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyun-sim&langs_count=10&layout=compact)](https://github.com/chaeyun-sim)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyun-sim)](https://github.com/anuraghazra/github-readme-stats)
