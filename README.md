@@ -22,8 +22,10 @@
 <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyun-sim&langs_count=10&layout=compact)](https://github.com/chaeyun-sim)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chaeyun-sim)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyun-sim&langs_count=10&layout=compact)](https://github.com/chaeyun-sim) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=chaeyun-sim&show_icons=true" />
 <p>
