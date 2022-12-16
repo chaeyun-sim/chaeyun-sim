@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Chaeyun%20Sim&fontSize=60&fontAlign=70&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Chaeyun%20Sim&fontSize=60&fontAlign=70&fontColor=fff)
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
