@@ -7,7 +7,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=CSS&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
   <br>
@@ -23,25 +23,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyun-sim&langs_count=10&layout=compact)](https://github.com/chaeyun-sim)
-
-
-<h1>Frontend Developer</h1>
-<h2 >Dark-jin</h2>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dark-jin&show_icons=true&theme=merko)
-
-<h2> 💻  Tech Stacks 💻</h2>
-
-<h3>Techs i've used least one</h3>
-<p>
-    <img alt="React" src
-    ="http://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-    <img alt="Html" src
-    ="http://img.shields.io/badge/HTML-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-    <img alt="CSS3" src
-    ="http://img.shields.io/badge/CSS3-FF9933.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
-    <img alt="Npm" src
-    ="http://img.shields.io/badge/npm-CB3837.svg?&style=for-the-badge&logo=npm&logoColor=white"/>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dark-jin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
