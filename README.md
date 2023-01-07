@@ -2,7 +2,7 @@
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <hr>
-<h4 align="center"> Techs that I've used at least once </h4>
+<h4 align="center"> 👩🏻‍💻 Techs that I've used at least once </h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
@@ -19,13 +19,20 @@
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp  
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PhpStorm-000000?style=flat-square&logo=PhpStorm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 </p>
-
+<h4 align="center"> 💡 Now Studying </h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"/>&nbsp
+  <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
+</p>
 <br>
 <br>
-
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chaeyun-sim&show_icons=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaeyun-sim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
