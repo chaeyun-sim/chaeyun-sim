@@ -30,9 +30,3 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 &nbsp
 </p>
-<br>
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaeyun-sim&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chaeyun-sim&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact" />
-<p>
