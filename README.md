@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/>&nbsp  
 </p>
-<h4 align="center"> 🔨 Tools 🔨 </h4>
+<h4 align="center"> ⚒️ Tools </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -30,12 +30,12 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/>
 </p>
-<h4 align="center"> 💡 Now Studying 💡 </h4>
+<h4 align="center"> 💡 Now Studying </h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp
 &nbsp
 </p>
-<h4 align="center"> ☎️ Contact ☎️ </h4>
+<h4 align="center"> ☎️ Contact  </h4>
 <p align="center">
   <a href="mailto:quf8093@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bysimune@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
