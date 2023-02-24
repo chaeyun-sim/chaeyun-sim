@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 &nbsp 
   <img src="https://img.shields.io/badge/Bootstrapap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MaterialUI-007FFF.svg?style=flat-square&logo=MUI&logoColor=white">
+  <img src="https://img.shields.io/badge/Material UI-007FFF.svg?style=flat-square&logo=MUI&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
