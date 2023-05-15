@@ -42,5 +42,6 @@
     <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bysimune@gmail.com" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>
   <a href="https://instagram.com/chaeyun_sim">
     <img src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/chaeyun_sim/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white&link=https://velog.io/@chaeyun-sim/" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </p>
