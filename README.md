@@ -37,7 +37,7 @@
 </p>
 <h4 align="center"> 💡 Now Studying </h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp 
 </p>
 <h4 align="center"> ☎️ Contact  </h4>
 <p align="center">
