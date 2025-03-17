@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Chaeyun%20Sim&fontSize=70&fontAlign=70&fontColor=fff)
-
 <h4 align="left">📫 Contact</h4>
 <p align="left">
   <a href="mailto:bysimune@gmail.com">
