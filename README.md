@@ -18,6 +18,7 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaeyun-sim&langs_count=10&layout=compact&theme=dark&hide=Python&exclude_repo=100_days_of_python,angela-blog&exclude_lang=C++" />
-</p>
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=Simone)](https://www.codenary.co.kr/user-profile/detail/Simone?github_ride=true&utm_source=github)
+
+
